@@ -1,0 +1,15 @@
+C:\Users\AltLiNe\Desktop\01\example.console\bin\Debug\net6.0\example.console.exe
+C:\Users\AltLiNe\Desktop\01\example.console\bin\Debug\net6.0\example.console.deps.json
+C:\Users\AltLiNe\Desktop\01\example.console\bin\Debug\net6.0\example.console.runtimeconfig.json
+C:\Users\AltLiNe\Desktop\01\example.console\bin\Debug\net6.0\example.console.dll
+C:\Users\AltLiNe\Desktop\01\example.console\bin\Debug\net6.0\example.console.pdb
+C:\Users\AltLiNe\Desktop\01\example.console\obj\Debug\net6.0\example.console.csproj.AssemblyReference.cache
+C:\Users\AltLiNe\Desktop\01\example.console\obj\Debug\net6.0\example.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AltLiNe\Desktop\01\example.console\obj\Debug\net6.0\example.console.AssemblyInfoInputs.cache
+C:\Users\AltLiNe\Desktop\01\example.console\obj\Debug\net6.0\example.console.AssemblyInfo.cs
+C:\Users\AltLiNe\Desktop\01\example.console\obj\Debug\net6.0\example.console.csproj.CoreCompileInputs.cache
+C:\Users\AltLiNe\Desktop\01\example.console\obj\Debug\net6.0\example.console.dll
+C:\Users\AltLiNe\Desktop\01\example.console\obj\Debug\net6.0\refint\example.console.dll
+C:\Users\AltLiNe\Desktop\01\example.console\obj\Debug\net6.0\example.console.pdb
+C:\Users\AltLiNe\Desktop\01\example.console\obj\Debug\net6.0\example.console.genruntimeconfig.cache
+C:\Users\AltLiNe\Desktop\01\example.console\obj\Debug\net6.0\ref\example.console.dll
